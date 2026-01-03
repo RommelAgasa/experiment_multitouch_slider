@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     width: "100%",
     maxWidth: 480,
-    marginTop: 8,
+    marginTop: 100,
   },
   slider: {
     flex: 1,
